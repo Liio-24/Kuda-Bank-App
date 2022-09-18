@@ -1,4 +1,4 @@
-![Kuda Logo](/kuda%20logo.png)
+![Kuda Logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F733%2F1*9_cv1PsqkZDqLjVTf73cmQ.png&imgrefurl=https%3A%2F%2Fkudabank.medium.com%2Fintroducing-kuda-44d41b860ad0&tbnid=BnvQwuCLUQNmMM&vet=1&docid=h0kpAhBsgrk9nM&w=733&h=231&source=sh%2Fx%2Fim)
 
 # The Bank of the Free - Kuda
 
@@ -14,7 +14,6 @@ This article is set to make naviagtion through the Kuda bank app easy.
 
 1. Visit the [Google Playstore](https://play.google.com/store/apps/details?id=com.kudabank.app) on your android device or the [Apple Store](https://apps.apple.com/us/app/kuda/id1467373738) on your iOS to download the Kuda Bank App.
 
-![Google Playstore](/Screenshot_20220918-111938_Google%20Play%20Store.jpg)
 
 2. Once downloaded, click on the Kuda Bank App titled "Kuda" on your device and click to open.
 
