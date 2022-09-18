@@ -1,4 +1,4 @@
-![Kuda Logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F733%2F1*9_cv1PsqkZDqLjVTf73cmQ.png&imgrefurl=https%3A%2F%2Fkudabank.medium.com%2Fintroducing-kuda-44d41b860ad0&tbnid=BnvQwuCLUQNmMM&vet=1&docid=h0kpAhBsgrk9nM&w=733&h=231&source=sh%2Fx%2Fim)
+![Kuda logo](https://images.app.goo.gl/nmsQcAgWzvhK88hm7)
 
 # The Bank of the Free - Kuda
 
