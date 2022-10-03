@@ -1,16 +1,22 @@
-![Kuda logo](https://images.app.goo.gl/nmsQcAgWzvhK88hm7)
+![Kuda logo](https://miro.medium.com/max/733/1*9_cv1PsqkZDqLjVTf73cmQ.png)
 
-# The Bank of the Free - Kuda
+# The Kuda Bank App: An Android Users Handbook
 
-## User Guide
+## Table of Content
 
-### Introduction
+1. [Introduction](#introduction)
+2. [How to Install the App](#how to install the app)
+3. [Creating an Account](#creating an account)
+4. [Verification](#verification)
+5. [Features](#features)
 
-This is a guide for users who are new to the Kuda bank app. Kuda is a digital-only bank that offers total banking services with comfort and ease. From card services, to sending/receiving money, saving money, borrowing money, airtime/data purchase, utility bills payment, and creating budgets, Kuda has made managing your finances a lot easier, just with your smartphone. 
 
-This article is set to make naviagtion through the Kuda bank app easy. 
+## Introduction <a name="introduction"></a>
 
-#### How to Install the App
+Kuda Bank, formerly known as Kudi Money, is a london-based start-up and digital only bank operating in Nigeria since 2017. It was renamed Kuda Bank in 2019. It is one of the fastest growing financial institutions and services in Nigeria. The banks operations, features, and products make it a unique one which stands out from the rest of the pile. The bank seems to understand the importance of convenience to it's customers, especially the youths who despise stress, and are also the bank's predominant customers. 
+Through this article, you will be provided with the basics of using the Kuda Bank App for Android. It will explain how to get started, the features included in the app, and what they are used for. With this guide, you are sure to get the most of your bank.  
+
+## How to Install the App <a name="how to install the app"></a>
 
 1. Visit the [Google Playstore](https://play.google.com/store/apps/details?id=com.kudabank.app) on your android device or the [Apple Store](https://apps.apple.com/us/app/kuda/id1467373738) on your iOS to download the Kuda Bank App.
 
@@ -21,7 +27,7 @@ This article is set to make naviagtion through the Kuda bank app easy.
 ### FIVE STEPS TO GETTING THE BEST EXPERIENCE ON YOUR APP
 
 
-#### Create An Account
+#### Creating An Account
 
 1. Click on "Open An Account".
 2. Input your email address, choose and confirm your password (your password must have 8 characters including letters and a number), and click on "Next" to proceed.
