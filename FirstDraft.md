@@ -4,36 +4,38 @@
 
 ## **Table of Content**
 
-1. [Introduction](#introduction-a-nameintroductiona)
-2. [Getting Started](#getting-started-a-namegetting-starteda)
+1. [Introduction](#introduction)
+2. [Getting Started](#getting-started)
    
-     2.1 [About the Basic Account](#about-the-basic-account-a-nameabout-the-basic-accounta)
+     2.1 [About the Basic Account](#about-the-basic-account)
 
-     2.2 [About the Full KYC Account](#about-the-full-kyc-account-a-nameabout-the-full-kyc-accounta)
+     2.2 [About the Full KYC Account](#about-the-full-kyc-account)
 
-     2.3 [How to Install the App](#how-to-install-the-app-a-namehow-to-install-the-appaa)
+     2.3 [How to Install the App](#how-to-install-the-app)
 
-     2.3 [Creating an Account](#creating-an-account-a-namecreating-an-accounta) 
+     2.3 [Creating an Account](#creating-an-account) 
 
-     2.4 [Verification](#verification-a-nameverificationa)
+     2.4 [Verification](#verification)
 
-     2.5 [Other Requirements](#other-requirements-a-nameother-requirementsa)
+     2.5 [Other Requirements](#other-requirements)
 
-3. [Features](#features-a-namefeaturesa)
+3. [Features](#features)
    
-     3.1 [Create Username](#create-username-a-namecreate-usernamea)
+     3.1 [Create Username](#create-username)
 
-     3.2 [Add Money](#add-money-a-nameadd-moneya)
+     3.2 [Add Money](#add-money)
 
-     3.3 [Save Money](#save-money-a-namesave-moneya)
+     3.3 [Save Money](#save-money)
 
-     3.4 [Borrow Money](#borrow-money-a-nameborrow-moneya)
+     3.4 [Borrow Money](#borrow-money)
 
-     3.5 [Card Services](#card-services-a-namecardsa)
+     3.5 [Card Services](#card-services)
 
-     3.6 [Get Paid](#get-paid-a-nameget-paida)
+     3.6 [Payments](#payments)
 
-4. [Conclusion](#conclusion-a-nameconclusiona)
+     3.7 [Get Paid](#get-paid)
+
+4. [Conclusion](#conclusion)
 
 
 
@@ -58,7 +60,7 @@ Like many other financial institutions, there are requirements that potential cu
 Also, there are two accounts available for opening to customers. They are the basic account and the full Know Your Customer(KYC) account.
 
 
-### **About the Basic Account** <a name="About-the-Basic-Account"></a>
+### **About the Basic Account** <a name="about-the-basic-account"></a>
 
 This is also known as Tier 1(T1). You get this account when you have a verified BVN but no valid ID attached to it.
 
@@ -67,7 +69,7 @@ To open a basic account, the following details are needed:
 - Phone number
 - Bank Verification Number(BVN)
 
-### **About the Full KYC Account** <a name="About-the-Full-KYC-Account"></a>
+### **About the Full KYC Account** <a name="about-the-full-kyc-account"></a>
 
 This is also known as Tier 3(3). To get this account, your Valid ID must be attached and confirmed.
 
@@ -224,7 +226,7 @@ To add money by card:
 
 ### Other ways include:
 
-- Sharing your [Username](#create-username-) 
+- Sharing your [Username](#create-username) 
 - Withdrawing from your [Payoneer](https://www.payoneer.com/accounts/) account.
 
 
@@ -331,7 +333,7 @@ To be eligible, you have to [upgrade your account](#verification-a-nameverificat
 ![draft 2](https://downloads.intercomcdn.com/i/o/310365935/0b080cd9ae23c6232225aa0f/K6.png)
 
 
-## **Payments**
+## **Payments** <a name="payments"></a>
 
 ### **Send Money** 
 
@@ -407,7 +409,7 @@ The create budget feature is unique to Kuda. This feature allows you create a bu
 ![budget](https://downloads.intercomcdn.com/i/o/248966292/f524dbc3562ec0f41482ae10/B3.png)
 
 
-## **Card Services** <a name="cards"></a>
+## **Card Services** <a name="card-services"></a>
 
 Card services are available on Kuda, specifically VISA cards.
 
@@ -469,7 +471,7 @@ You can choose the channels (POS, ATM and online) where your Kuda Visa Card work
 ![manage card 2](https://downloads.intercomcdn.com/i/o/471357205/f927a4624682155eed942484/K6.jpeg)
 
 
-## **Get Paid** <a name="get paid"></a>
+## **Get Paid** <a name="get-paid"></a>
 
 Kuda provides a referral feature. With this, you can refer friends and family to sign up on Kuda using your own referral code, and get you get paid for it. 
 
